@@ -2,9 +2,7 @@
 
   <img src="Header.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Dynamic Header" />
 
-  # Hi there, I'm <a href="https://github.com/mann07g-stack">Mann</a>! 👋<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mann07g-stack&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+  # Hi there, I'm <a href="https://github.com/mann07g-stack">Mann</a>! 👋
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Python+%26+Java+Developer;Flutter+Enthusiast;Solving+complex+problems;One+bug+at+a+time...;Unity+Game+Builder" alt="Typing SVG" />
