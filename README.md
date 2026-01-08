@@ -67,7 +67,7 @@
 
 ### 🐍 The Contribution Snake
 <div align="center">
-  <img src="https://github.com/mann07g-stack/mann07g-stack/blob/main/.github/workflows/snake.yml" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/mann07g-stack/mann07g-stack/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
