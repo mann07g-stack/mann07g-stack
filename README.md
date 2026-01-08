@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/originals/8a/0e/13/8a0e13745851480f283d58231c510006.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Koenigsegg Dynamic Header" />
+  <img src="header.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Dynamic Header" />
 
   # Hi there, I'm <a href="https://github.com/mann07g-stack">Mann</a>! 👋
 
