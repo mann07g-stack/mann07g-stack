@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="header.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Dynamic Header" />
+  <img src="Header.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Dynamic Header" />
 
   # Hi there, I'm <a href="https://github.com/mann07g-stack">Mann</a>! 👋
 
