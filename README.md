@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdraHdwbW84eGx4eHcxZm50bm15bGwxeW94eW50b3B4c3R4eHcxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tP8qAV3GyP1PdMA/giphy.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Koenigsegg Dynamic Header" />
+  <img src="https://i.pinimg.com/originals/8a/0e/13/8a0e13745851480f283d58231c510006.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Koenigsegg Dynamic Header" />
 
   # Hi there, I'm <a href="https://github.com/mann07g-stack">Mann</a>! 👋
 
